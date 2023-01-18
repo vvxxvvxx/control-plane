@@ -7,7 +7,7 @@ require (
 	github.com/99designs/gqlgen v0.17.5
 	github.com/Azure/azure-sdk-for-go v64.1.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.27
-	github.com/Azure/go-autorest/autorest/adal v0.9.19
+	github.com/Azure/go-autorest/autorest/adal v0.9.22
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Peripli/service-manager v0.23.4
@@ -133,7 +133,7 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2 // indirect
 	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171 // indirect
